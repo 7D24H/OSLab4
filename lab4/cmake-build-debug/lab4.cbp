@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="lab4"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/dada/OSLab4/lab4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/dada/OSLab4/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/dada/OSLab4/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/dada/OSLab4/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/dada/OSLab4/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/dada/OSLab4/lab4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/dada/OSLab4/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/dada/OSLab4/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/dada/OSLab4/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/dada/OSLab4/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/dada/OSLab4/lab4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/dada/OSLab4/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/dada/OSLab4/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/dada/OSLab4/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/dada/OSLab4/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab4">
+				<Option output="/home/dada/OSLab4/lab4/cmake-build-debug/lab4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/dada/OSLab4/lab4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/dada/OSLab4/lab4/boot/include"/>
+					<Add directory="/home/dada/OSLab4/lab4/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/dada/OSLab4/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab4"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/dada/OSLab4/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/dada/OSLab4/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/dada/OSLab4/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab4/fast">
+				<Option output="/home/dada/OSLab4/lab4/cmake-build-debug/lab4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/dada/OSLab4/lab4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/dada/OSLab4/lab4/boot/include"/>
+					<Add directory="/home/dada/OSLab4/lab4/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/dada/OSLab4/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab4/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/dada/OSLab4/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/dada/OSLab4/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/dada/OSLab4/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/dada/OSLab4/lab4/Makefile">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/a.img">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/bochsrc">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/boot/boot.asm">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/boot/boot.bin">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/boot/include/fat12hdr.inc">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/boot/include/load.inc">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/boot/include/pm.inc">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/boot/loader.asm">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/boot/loader.bin">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/include/console.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/include/const.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/include/global.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/include/keyboard.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/include/keymap.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/include/proc.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/include/protect.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/include/proto.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/include/queue.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/include/sconst.inc">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/include/string.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/include/tty.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/include/type.h">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/kernel.bin">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/kernel/clock.c">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/kernel/console.c">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/kernel/global.c">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/kernel/i8259.c">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/kernel/kernel.asm">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/kernel/keyboard.c">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/kernel/main.c">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/kernel/printf.c">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/kernel/proc.c">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/kernel/protect.c">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/kernel/queue.c">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/kernel/start.c">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/kernel/syscall.asm">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/kernel/systask.c">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/kernel/tty.c">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/kernel/vsprintf.c">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/krnl.map">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/lib/klib.c">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/lib/kliba.asm">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/lib/misc.c">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/lib/string.asm">
+			<Option target="lab4"/>
+		</Unit>
+		<Unit filename="/home/dada/OSLab4/lab4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

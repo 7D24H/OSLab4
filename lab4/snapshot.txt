@@ -1,0 +1,25 @@
+No customers. Barber sleeps.
+#1 customer comes. 0 customers are waiting.Sits down to wait.
+Barber calls next customer. Then there are 0 customers waiting.
+Barber begins cutting #1 customer's hair.
+#2 customer comes. 0 customers are waiting.Sits down to wait.
+#3 customer comes. 1 customers are waiting.Sits down to wait.
+#4 customer comes. 2 customers are waiting.Sits down to wait.
+#1 customer leaves with new hair style.
+Barber calls next customer. Then there are 2 customers waiting.
+Barber begins cutting #2 customer's hair.
+#5 customer comes. 2 customers are waiting.Sits down to wait.
+#2 customer leaves with new hair style.
+Barber calls next customer. Then there are 2 customers waiting.
+Barber begins cutting #3 customer's hair.
+#6 customer comes. 2 customers are waiting.Sits down to wait.
+#3 customer leaves with new hair style.
+Barber calls next customer. Then there are 2 customers waiting.
+Barber begins cutting #4 customer's hair.
+#7 customer comes. 2 customers are waiting.Sits down to wait.
+#4 customer leaves with new hair style.
+Barber calls next customer. Then there are 2 customers waiting.
+Barber begins cutting #5 customer's hair.
+#5 customer leaves with new hair style.
+Barber calls next customer. Then there are 1 customers waiting.
+Barber begins cutting #6 customer's hair.
