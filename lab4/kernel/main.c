@@ -112,7 +112,7 @@ PUBLIC int kernel_main()
 	
 	//控制变量、信号量、记录量的初始化
 	waiting = 0;
-	CHAIRS = 1;  //TODO here to change!
+	CHAIRS = 3;  //TODO here to change!
 	customers.value = 0;
 	barbers.value = 0;
 	mutex.value = 1;
